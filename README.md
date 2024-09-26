@@ -29,6 +29,7 @@ What is my current biggest worry?
 ![My most recent big project: Cathédrale Notre-Dame de Paris](https://github.com/Himmelszelte/Photo/blob/main/8C30076883AA5A23D7635AC7E2BB4C13.png)
 
 
+
 ## Summary and Reflection 
 Honestly, I had absolutely no idea what I was doing on this site at the beginning, and I have no experience with coding either. The closest experiences I have with these kinds of things are either programming a tiny car on the computer and making it draw shapes out on the screen or writing a series of commands in Final Fantasy XIV to make my character perform certain actions. In the beginning, there is definitely frustration involved. After panicking, I discovered the pattern. When I adapted the pattern and used the commands on my own creating the content above, it felt amazing. It's just like the feeling of building something I got when I build my Lego sets.
 
