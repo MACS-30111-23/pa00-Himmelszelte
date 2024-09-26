@@ -24,8 +24,9 @@ What is my current biggest worry?
 * I can speak 5 different languages (and the fifth one is the dialect from my hometown which has no writing form)
 * My favorite PC game is [Final Fantasy XIV](https://na.finalfantasyxiv.com/), and this is my 7th year playing it
 * Baekhyun, Halsey, and Taylor Swift are my Top 3 favorite musician
-* I also enjoy building Legos, I own more than 40 sets of Legos (all built) from world-famous architectures to a tuxedo cat <br>
-![My most recent big project: Cathédrale Notre-Dame de Paris]
+* I also enjoy building Legos, I own more than 40 sets of Legos (all built) from world-famous architectures to a tuxedo cat
+* Photo below is my most recent "big project": Cathédrale Notre-Dame de Paris <br>
+![My most recent big project: Cathédrale Notre-Dame de Paris](https://github.com/Himmelszelte/Photo/blob/main/8C30076883AA5A23D7635AC7E2BB4C13.png)
 
 
 ## Summary and Reflection 
